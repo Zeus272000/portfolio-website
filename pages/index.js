@@ -40,7 +40,7 @@ export default function Home() {
             <p className="leading-7 text-gray-600 dark:text-gray-300">Let's connect and explore the power of data together</p>
           </div>
           <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-300">
-            <AiFillLinkedin className="hover:shadow-lg hover:shadow-purple-500"/>
+            <a href="https://www.linkedin.com/in/harshil-suvarna/"><AiFillLinkedin className="hover:shadow-lg hover:shadow-purple-500"/></a>
             <AiFillYoutube className="hover:shadow-lg hover:shadow-teal-500"/>
           </div>
           <div className="mt-20 flex justify-center">
